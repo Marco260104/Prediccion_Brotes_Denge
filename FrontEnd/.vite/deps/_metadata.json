@@ -1,0 +1,67 @@
+{
+  "hash": "5b1c4213",
+  "configHash": "b84b7e4d",
+  "lockfileHash": "3347beb3",
+  "browserHash": "a6a5b86c",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "88c0302d",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "093cedda",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "6f3e1cfc",
+      "needsInterop": false
+    },
+    "@splinetool/react-spline": {
+      "src": "../../node_modules/@splinetool/react-spline/dist/react-spline.js",
+      "file": "@splinetool_react-spline.js",
+      "fileHash": "cbbeeda6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "howler-BZW7Y3HP": {
+      "file": "howler-BZW7Y3HP.js"
+    },
+    "opentype-FR5EOPF6": {
+      "file": "opentype-FR5EOPF6.js"
+    },
+    "ui-LR44XLHR": {
+      "file": "ui-LR44XLHR.js"
+    },
+    "gaussian-splat-compression-RUDQ4GJA": {
+      "file": "gaussian-splat-compression-RUDQ4GJA.js"
+    },
+    "chunk-J32DMJYA": {
+      "file": "chunk-J32DMJYA.js"
+    },
+    "chunk-PL7RC7Z4": {
+      "file": "chunk-PL7RC7Z4.js"
+    },
+    "navmesh-OHWSVNSC": {
+      "file": "navmesh-OHWSVNSC.js"
+    },
+    "physics-QCSXPPQY": {
+      "file": "physics-QCSXPPQY.js"
+    },
+    "process-CBWWBHPJ": {
+      "file": "process-CBWWBHPJ.js"
+    },
+    "boolean-646GIQ4A": {
+      "file": "boolean-646GIQ4A.js"
+    },
+    "chunk-7D4SUZUM": {
+      "file": "chunk-7D4SUZUM.js"
+    }
+  }
+}
