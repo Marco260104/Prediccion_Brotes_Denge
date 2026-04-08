@@ -88,17 +88,16 @@ export default function Hero() {
 
         <div className="ui-layer">
           <aside className={`side left ${centerFocus ? 'dim' : ''}`}>
-            <p className="eyebrow">Backend + Frontend conectados</p>
+            <p className="eyebrow">Sistema Conectado</p>
             <h2>
-              El dengue
+              Prediciendo
               <br />
-              <em>ya tiene</em>
+              <em>el Dengue con</em>
               <br />
-              tablero real.
+             Inteligencia Artesanal.
             </h2>
             <p className="sub">
-              El frontend ahora consume resultados reales del pipeline semanal por canton. Muestra datos historicos,
-              entrenamiento validado en el tiempo y predicciones del conjunto de prueba.
+             Prediciendo los brotes epidemiologicos en el Ecuador basado en datos reales y Usando IA.
             </p>
             <div className="cta-row">
               <button className="btn-ghost" onClick={() => navigate('/entrenamiento')}>
