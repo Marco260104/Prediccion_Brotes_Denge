@@ -4,8 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "sync-data": "python ../BackEnd/src/api/07_export_frontend_snapshot.py",
+    "dev": "npm run sync-data && vite",
+    "build": "npm run sync-data && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
